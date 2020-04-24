@@ -32,7 +32,7 @@ var server = http.createServer(function (request, response) {
                     </head>
                     <body>
                     <script src="/y"></script>
-                    <h1>标题</h1>
+                    <h1>标题一</h1>
                     </body>
     `);
     response.end();
